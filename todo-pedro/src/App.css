@@ -1,0 +1,35 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.App {
+  padding: 1rem;
+  box-shadow: 1px 1px 1px rgba(135, 31, 31, 0.9);
+}
+
+button {
+  text-align: center;
+  color: #fff;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 4px;
+  padding: 0.2rem 1rem;
+  margin-top: 1rem;
+  margin-left: 8rem;
+}
+
+input {
+  display: block;
+  margin: 0 auto;
+  margin-top: 1rem;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+}
