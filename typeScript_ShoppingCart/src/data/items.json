@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/bananna.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 84000,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "DSLR | Mac | I-Phone",
+    "price": 2400,
+    "imgUrl": "/imgs/three_in_one.jpg"
+  },
+  {
+    "id": 6,
+    "name": "MacBook M2",
+    "price": 1500,
+    "imgUrl": "/imgs/Mac_M2.jpg"
+  }
+]
